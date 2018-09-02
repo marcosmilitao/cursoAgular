@@ -1,0 +1,1 @@
+export const MEAT_API = 'https://restaurante-34193.firebaseio.com'
